@@ -1,0 +1,26 @@
+{
+  "name": "tweet-fetch",
+  "version": "1.0.0",
+  "description": "web-app to fetch tweets on a real time basis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nileshnj993/tweet-fetch.git"
+  },
+  "author": "Nilesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nileshnj993/tweet-fetch/issues"
+  },
+  "homepage": "https://github.com/nileshnj993/tweet-fetch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
