@@ -1,6 +1,5 @@
 # tweet-fetch
 Node.js web-app that fetches tweets on a real time basis using Socket.io.
-
 HTML, CSS and JS was used for the front end.
 
 **If you want to run it locally:**
